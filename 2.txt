@@ -1,1 +1,3 @@
-this is a txt file,2.txt file
+this to checck conflicts
+this 2.txt file
+this from vs code
